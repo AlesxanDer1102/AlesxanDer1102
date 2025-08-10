@@ -10,20 +10,9 @@ I build end-to-end DApps, secure smart contracts, and web experiences that bring
 - 🧠 Always learning: **L2s**, contract security, design patterns, **account abstraction (ERC-4337)**, and **zk**.
 - 💡 I care about clean work: testing, documentation, and CI/CD from day one.
 
----
-
-## What I work on
-- **Smart Contracts**: Solidity + Foundry/Hardhat · testing, coverage, gas optimizations.
-- **DApps**: React/Next.js + wagmi/viem + Ethers.js · wallet connection, Web3 UX.
-- **Backend**: Node.js (NestJS/Express) · REST/GraphQL, queues, caching.
-- **Infra & Web3**: Docker, GitHub Actions · The Graph, IPFS/Pinata.
-- **Interests**: DeFi, utility NFTs, cross-chain bridges, privacy & ZK.
-
----
 
 ## Tech Stack
 `Solidity` · `Foundry` · `Hardhat` · `Ethers.js` · `viem/wagmi` · `React` · `Next.js` · `Node.js` · `NestJS` · `Express` · `PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `The Graph` · `IPFS`
-
 
 ## Reach me
 - ✉️ Email: die2002alexsander@gmail.com
@@ -57,7 +46,7 @@ I build end-to-end DApps, secure smart contracts, and web experiences that bring
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlesxanDer1102&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlesxanDer1102&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
