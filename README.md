@@ -1,26 +1,41 @@
-## Hi there 👋
+## Hi there, I'm Diego Alesxader 👋
+**Full-stack Developer · Blockchain & Web3**
 
-<!--
-**AlesxanDer1102/AlesxanDer1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end DApps, secure smart contracts, and web experiences that bring Web3 to more people. I’m constantly exploring new technologies, deepening my knowledge of the blockchain ecosystem (especially EVM/L2), and turning ideas into real products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🔭 Full-stack focused on **smart contracts** and **dApps**.
+- 🧠 Always learning: **L2s**, contract security, design patterns, **account abstraction (ERC-4337)**, and **zk**.
+- 💡 I care about clean work: testing, documentation, and CI/CD from day one.
 
+---
+
+## What I work on
+- **Smart Contracts**: Solidity + Foundry/Hardhat · testing, coverage, gas optimizations.
+- **DApps**: React/Next.js + wagmi/viem + Ethers.js · wallet connection, Web3 UX.
+- **Backend**: Node.js (NestJS/Express) · REST/GraphQL, queues, caching.
+- **Infra & Web3**: Docker, GitHub Actions · The Graph, IPFS/Pinata.
+- **Interests**: DeFi, utility NFTs, cross-chain bridges, privacy & ZK.
+
+---
+
+## Tech Stack
+`Solidity` · `Foundry` · `Hardhat` · `Ethers.js` · `viem/wagmi` · `React` · `Next.js` · `Node.js` · `NestJS` · `Express` · `PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `The Graph` · `IPFS`
+
+
+## Reach me
+- ✉️ Email: die2002alexsander@gmail.com
+- 💼 LinkedIn: [Diego Orrego](https://www.linkedin.com/in/dorregotorrejon/)
+
+---
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -35,6 +50,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
